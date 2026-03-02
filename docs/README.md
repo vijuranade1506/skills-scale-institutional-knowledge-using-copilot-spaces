@@ -2,50 +2,41 @@
 
 A central README summarizing OctoAcme's approach to project management and providing direct links to all program process documents.
 
-## Overview
-
-OctoAcme's project management methodology emphasizes a customer-first approach with structured phases, clear roles and responsibilities, iterative delivery, and continuous improvement. Our processes are designed to ensure effective communication, proactive risk management, and successful project outcomes through well-defined procedures and transparent tracking.
-
 ## Summary of Project Management Processes
 
-OctoAcme project management follows a comprehensive framework that guides projects from inception through retrospective review:
+OctoAcme project management emphasizes customer-first thinking, iterative delivery, clear roles and artifacts, regular communication, risk management, and continuous improvement. 
 
-### Project Initiation
-Projects begin with clear definition of objectives, business case, and stakeholder identification. This phase establishes the foundation for project success.
+### Key Phases
+Projects move through defined phases:
 
-### Project Planning
-Detailed planning occurs after initiation, including resource allocation, timeline development, scope definition, and deliverable identification. Planning ensures all team members understand project goals and their roles.
+1. **Project Initiation** - Define project scope, objectives, and establish the project team
+2. **Project Planning** - Create detailed plans including timelines, resource allocation, and deliverables
+3. **Execution & Tracking** - Execute planned work while monitoring progress against baselines
+4. **Risk & Communication** - Proactively identify and manage risks, maintain stakeholder communication
+5. **Release & Deployment** - Prepare, test, and deploy deliverables to production
+6. **Retrospective & Continuous Improvement** - Review project outcomes and identify lessons learned
 
-### Execution & Tracking
-During execution, the team delivers work while continuously tracking progress against established baselines. Regular status updates, risk monitoring, and stakeholder communication keep projects aligned with objectives.
+### Core Values
+- **Customer-First Thinking** - Prioritize customer needs and feedback
+- **Iterative Delivery** - Deliver value in incremental stages
+- **Clear Roles & Artifacts** - Well-defined responsibilities and documentation
+- **Regular Communication** - Transparent and consistent stakeholder engagement
+- **Risk Management** - Proactive identification and mitigation of risks
+- **Continuous Improvement** - Learn from each project to enhance future delivery
 
-### Release & Deployment
-Controlled release and deployment processes ensure quality deliverables reach production. This phase includes testing, validation, and documentation to support successful launches.
+## Process Document Links
 
-### Risk Management & Communication
-Throughout all phases, risks are identified, assessed, and mitigated. Clear communication channels keep all stakeholders informed and engaged, fostering collaboration and alignment.
-
-### Retrospective & Continuous Improvement
-After project completion, teams conduct retrospectives to identify lessons learned. These insights drive continuous improvement across future projects.
-
-### Roles & Personas
-Clear role definitions and persona descriptions ensure everyone understands their responsibilities and how they contribute to project success.
-
-## Process Documentation
-
-Below are links to all core OctoAcme project management process documents:
-
-- **[Project Management Overview](octoacme-project-management-overview.md)** - High-level introduction to OctoAcme's project management approach
-- **[Project Initiation Guide](octoacme-project-initiation.md)** - Guidelines for project kickoff and initiation procedures
-- **[Project Planning](octoacme-project-planning.md)** - Planning processes, including scheduling and resource allocation
-- **[Execution & Tracking](octoacme-execution-and-tracking.md)** - Execution procedures and progress tracking mechanisms
-- **[Risks & Communication](octoacme-risks-and-communication.md)** - Risk management strategies and communication protocols
-- **[Release & Deployment Guide](octoacme-release-and-deployment.md)** - Release procedures and deployment best practices
-- **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - Post-project review and improvement processes
-- **[Roles & Personas](octoacme-roles-and-personas.md)** - Role definitions and team member personas
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Project Initiation Guide](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risks & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
 
 ## Getting Started
 
-New team members should start with the Project Management Overview to understand the overall framework, then review the specific process documents relevant to their role in upcoming projects.
+New team members should start with the [Project Management Overview](octoacme-project-management-overview.md) to understand the foundational concepts, then explore specific guides based on their role and project phase.
 
-For questions or clarifications about these processes, please reach out to the Project Management Office or refer to the specific process documentation.
+For questions or updates to these processes, please contact the project management office or create an issue in this repository.
